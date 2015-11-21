@@ -1,0 +1,7 @@
+# properties for the menu-service application
+menuBootstrap:
+  items:
+    - name: Full Rack of Ribs
+      price: 20
+    - name: 1/2 Rack
+      price: 12
