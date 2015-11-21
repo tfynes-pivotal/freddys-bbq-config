@@ -1,0 +1,4 @@
+# Common properties for all applications go in this file
+branding:
+  restaurantName: Freddy's BBQ Joint
+  menuTitle: Freddy's Menu
