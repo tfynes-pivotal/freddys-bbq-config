@@ -2,3 +2,9 @@
 branding:
   restaurantName: Freddy's BBQ Joint
   menuTitle: Freddy's Menu
+
+targets:
+  scheme: https
+  uaa: ${targets.scheme}://freddysbbq.login.coral.springapps.io
+  menu: ${targets.scheme}://menu-service.coral.springapps.io
+  order: ${targets.scheme}://order-service.coral.springapps.io
