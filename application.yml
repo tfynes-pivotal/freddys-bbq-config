@@ -5,6 +5,6 @@ branding:
 
 targets:
   scheme: https
-  uaa: ${targets.scheme}://freddysbbq.login.coral.springapps.io
+  uaa: ${targets.scheme}://freddys-bbq.login.coral.springapps.io
   menu: ${targets.scheme}://menu-service.coral.springapps.io
   order: ${targets.scheme}://order-service.coral.springapps.io
