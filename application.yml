@@ -3,5 +3,12 @@ branding:
   restaurantName: Freddy's BBQ Joint
   menuTitle: Freddy's Menu
 
+menuBootstrap:
+  items:
+    - name: Full Rack of Ribs
+      price: 20
+    - name: 1/2 Rack
+      price: 12
+
 targets:
   scheme: https
