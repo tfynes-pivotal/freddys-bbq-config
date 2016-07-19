@@ -12,3 +12,4 @@ menuBootstrap:
 
 targets:
   scheme: https
+  uaa: https://wtran-springone.login.run.pivotal.io
