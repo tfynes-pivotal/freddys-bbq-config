@@ -1,14 +1,18 @@
 # Common properties for all applications go in this file
 branding:
-  restaurantName: Freddy's BBQ Joint
-  menuTitle: Freddy's Menu
+  restaurantName: Pivotal Bakery
+  menuTitle: Pivotal Bakery Menu
 
 menuBootstrap:
   items:
-    - name: Full Rack of Ribs
-      price: 20
-    - name: 1/2 Rack
-      price: 12
+    - name: Scones
+      price: 2
+    - name: CupCakes
+      price: 1
+    - name: Eclares
+      price: 1.50
+    - name: Caramels
+      price: 0.50
 
 targets:
   scheme: https
